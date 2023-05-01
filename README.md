@@ -14,4 +14,16 @@
 ------------------
 ## 2. git 설피후 git bash 열기 🍄
 ![image](https://user-images.githubusercontent.com/129017008/235417906-9b3e6477-aba9-4b5f-9e16-7e3f74721926.png)
+ 
+* 유저이름설정 😲
+     
+        git cofig --global user.name "myunzzhang"
 
+* 유저이메일설정 😲
+
+        git config --global user.email "kguswjd418@naver.com"
+        
+       
+* 내정보 확인하기
+
+        git config --list
