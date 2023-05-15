@@ -67,6 +67,14 @@
 
 1. 소스코드 다운로드 😮‍💨
 
-  git clone 주소
+      git clone 주소
   
-  git clone https://github.com/myunzzhang/hanacard.git
+      git clone https://github.com/myunzzhang/hanacard.git
+      
+      * git add .
+      * git commit -m ""
+      * git push origin master
+
+  ![image](https://github.com/myunzzhang/github_connect/assets/129017008/177deeba-ca0f-45ff-9bc4-7cddb270821f)
+
+  
