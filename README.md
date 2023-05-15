@@ -55,25 +55,29 @@
 
 1. 기존의 코드를 다운받는 행위를 해야한다 😠
    
-     git pull origin master
+      git pull origin master
         
 2. 다시 push 해야한다 😠
 
-     git push origin master
+      git push origin master
      
 --------------------------
 
-# github 협업하는 방법 🍄
+# github 협업하는 방법 🍄 [사원입장👱] 
 
 1. 소스코드 다운로드 😮‍💨
 
-      git clone 주소
+        git clone 주소
   
-      git clone https://github.com/myunzzhang/hanacard.git
+        git clone https://github.com/myunzzhang/hanacard.git
       
-      * git add .
-      * git commit -m ""
-      * git push origin mj
+  ![image](https://github.com/myunzzhang/github_connect/assets/129017008/898f22e6-c629-445d-85fb-164898fec170)
+
+2. 브랜치(branch) 만들기
+        * git checkout -b 브랜치이름
+        * git add .
+        * git commit -m ""
+        * git push origin 브랜치이름
 
   ![image](https://github.com/myunzzhang/github_connect/assets/129017008/177deeba-ca0f-45ff-9bc4-7cddb270821f)
 
