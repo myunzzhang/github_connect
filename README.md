@@ -73,7 +73,7 @@
       
       * git add .
       * git commit -m ""
-      * git push origin master
+      * git push origin mj
 
   ![image](https://github.com/myunzzhang/github_connect/assets/129017008/177deeba-ca0f-45ff-9bc4-7cddb270821f)
 
