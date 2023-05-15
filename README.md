@@ -75,9 +75,13 @@
 
 2. 브랜치(branch) 만들기
         * git checkout -b 브랜치이름
+       
         * git add .
+        
         * git commit -m ""
+        
         * git push origin 브랜치이름
+       
 
   ![image](https://github.com/myunzzhang/github_connect/assets/129017008/177deeba-ca0f-45ff-9bc4-7cddb270821f)
 
